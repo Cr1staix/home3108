@@ -45,10 +45,5 @@ public class Main {
           int intX = (int) longX;
         System.out.println("\nЧисло типа long : " + longX);
         System.out.println("Число типа int : " + intX);
-
-
-
-
-
     }
 }
